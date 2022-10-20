@@ -29,6 +29,6 @@
 
 
 ## 🌎 Find me
-- telegram: click [FranzKafkaBlog](https://t.me/itsnyx)🏓
+- telegram: click [ItsNyx](https://t.me/itsnyx)🏓
 
 
