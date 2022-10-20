@@ -1,12 +1,6 @@
 ### Hi I'm Alireza 👋
 
-<!--
-**FranzKafkaYu/FranzKafkaYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
--->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
@@ -27,24 +21,14 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranzKafkaYu&theme=cobalt2&show_icons=true)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=FranzKafkaYu&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsnyx&theme=cobalt2&show_icons=true)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=itsnyx&show_icons=true&theme=tokyonight)
 <p align='left'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnyx&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
 </p>
 
 
 ## 🌎 Find me
-- wechat Official Account: search **语如鲸落**📹 ✍🏾
-- blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
-## 🚀 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [关于Android系统模拟运行方案杂谈](https://coderfan.net/how-to-emulate-android-device.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-emulate-android-device)
-- [廉价服务器推荐-CloudCone](https://coderfan.net/budget-clouds-vps-recommend-cloudcone.html?utm_source=rss&utm_medium=rss&utm_campaign=budget-clouds-vps-recommend-cloudcone)
-- [SSH工具SecureCRT使用分享](https://coderfan.net/ssh-client-securecrt-usage-sharing.html?utm_source=rss&utm_medium=rss&utm_campaign=ssh-client-securecrt-usage-sharing)
-- [Android APK文件分析](https://coderfan.net/android-apk-analyze.html?utm_source=rss&utm_medium=rss&utm_campaign=android-apk-analyze)
-- [Ubuntu安装Samba实现与Win端文件共享](https://coderfan.net/install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows.html?utm_source=rss&utm_medium=rss&utm_campaign=install-samba-in-ubuntu-to-for-sharing-files-and-directories-with-windows)
-<!-- BLOG-POST-LIST:END -->
+- telegram: click [FranzKafkaBlog](https://t.me/itsnyx)🏓
 
-## 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+
