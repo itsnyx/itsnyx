@@ -3,18 +3,18 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
-![IOS](https://img.shields.io/badge/ios-0078D6?style=for-the-badge&logo=ios&logoColor=white)
+![IOS](https://img.shields.io/badge/ios-purple?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOs-gray?style=for-the-badge&logo=MacOS&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
 
 ## ⚡ Tec Stacks
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![JavaScript](https://img.shields.io/badge/Javascript-black?style=flat-square&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![React Native](https://img.shields.io/badge/React%20Native-black?style=flat-square&logo=react)
+![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
